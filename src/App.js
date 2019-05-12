@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
 import TodosList from './components/todos-list.component';
 import CreateTodo from './components/create-todo.component';
-import EditTodo from './components/create-todo.component';
+import EditTodo from './components/edit-todo.component';
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
